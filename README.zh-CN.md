@@ -134,6 +134,8 @@ antigravity-trajectory extract-all \
 
 ## 工作原理
 
+![架构图](assets/architecture-zh.svg)
+
 1. 从 Antigravity 状态读取摘要元数据（如果可用）
 2. 发现运行中的 Antigravity `language_server` 进程
 3. 从实时摘要和缓存支持的 `cascade_id` 验证中枚举会话

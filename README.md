@@ -134,6 +134,8 @@ Bulk exports also write a `manifest.json` with per-session status and output pat
 
 ## How it works
 
+![Architecture](assets/architecture.svg)
+
 1. Read summary metadata from Antigravity state when available.
 2. Discover running Antigravity `language_server` processes.
 3. Enumerate sessions from live summaries plus cache-backed `cascade_id` validation.
