@@ -159,3 +159,8 @@ Bulk exports also write a `manifest.json` with per-session status and output pat
 ## License
 
 MIT
+
+## Related Projects
+
+- [nowledge-mem](https://mem.nowledge.co) — Personal memory system for AI agents
+- [windsurf-trajectory-extractor](https://github.com/jijiamoer/windsurf-trajectory-extractor) — Offline protobuf extraction for Windsurf

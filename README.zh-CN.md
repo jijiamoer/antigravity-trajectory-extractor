@@ -159,3 +159,8 @@ antigravity-trajectory extract-all \
 ## 许可证
 
 MIT
+
+## 相关项目
+
+- [nowledge-mem](https://mem.nowledge.co) — AI Agent 个人记忆系统
+- [windsurf-trajectory-extractor](https://github.com/jijiamoer/windsurf-trajectory-extractor) — Windsurf 离线 protobuf 提取
