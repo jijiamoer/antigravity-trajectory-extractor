@@ -1,5 +1,7 @@
 # Antigravity Trajectory Extractor
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 Export Antigravity conversation trajectories through the local language server.
 
 ## What this does
